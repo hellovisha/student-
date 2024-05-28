@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: Student
-Version: 0.0.1
-Author: vishal
-Author-email: vishalsinghrawat505@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: matplotlib
-Requires-Dist: seaborn
